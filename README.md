@@ -1,2 +1,2 @@
 # trident-ticketing
-A sample titkceting system for Straightforward Aurelia
+A sample ticketing system for Straightforward Aurelia
